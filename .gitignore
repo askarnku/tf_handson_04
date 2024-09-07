@@ -1,2 +1,3 @@
-.terraform.*
+infrastructure.txt
 .terraform
+.terraform.*
